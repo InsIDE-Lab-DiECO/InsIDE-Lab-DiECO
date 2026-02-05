@@ -2,67 +2,61 @@
   <img src="assets/logo-big.png" alt="InSIDE Lab Logo" width="200">
 </p>
 
-
-
-# InsIDE Lab  
+# InSIDE Lab  
 ### Insubria Information & Data for Economics  
-Dipartimento di Economia – Università degli Studi dell’Insubria
+Department of Economics – University of Insubria
 
-Benvenuti nel repository ufficiale dell’**InsIDE Lab (Insubria Information & Data for Economics)**.  
-Questo spazio raccoglie codice, materiali didattici, dataset pubblici o simulati e progetti di ricerca sviluppati da docenti, ricercatori e studenti del Dipartimento di Economia.
-
----
-
-## 🎯 Missione del laboratorio
-L’InsIDE Lab promuove:
-- l’uso di **dati**, **metodi quantitativi** e **strumenti computazionali** nell’analisi economica;
-- pratiche di **Open Science** e **riproducibilità della ricerca**;
-- un ambiente collaborativo per studenti, dottorandi e ricercatori.
+Welcome to the official repository of **InSIDE Lab (Insubria Information & Data for Economics)**.  
+This space hosts code, educational materials, public or simulated datasets, and research projects developed by faculty, researchers, and students of the Department of Economics.
 
 ---
 
-## 📂 Struttura del repository
-- **papers/** → articoli e progetti di ricerca del laboratorio  
-- **teaching/** → materiale didattico, esercitazioni, workshop  
-- **datasets/** → dataset pubblici o simulati + linee guida per l’anonimizzazione  
-- **templates/** → modelli per notebook, progetti, report e tesi  
+## 🎯 Lab Mission
+InSIDE Lab promotes:
+* The use of **data**, **quantitative methods**, and **computational tools** in economic analysis.
+* **Open Science** practices and **research reproducibility**.
+* A collaborative environment for students, PhD candidates, and researchers.
 
 ---
 
-## 🤝 Come contribuire
-Per contribuire al repository:
-1. Leggere attentamente il file `CONTRIBUTING.md`.
-2. Creare un branch dedicato alla modifica.
-3. Documentare in modo chiaro il proprio contributo.
-4. Aprire una pull request per la revisione.
-
-Tutti i contributi devono rispettare il `CODE_OF_CONDUCT.md`.
+## 📂 Repository Structure
+* **research/** → Lab research projects
+* **teaching/** → Educational materials, exercises, workshops
+* **datasets/** → Public or simulated datasets + anonymization guidelines
+* **templates/** → Templates for notebooks, projects, reports, and theses
 
 ---
 
-## 🔒 Dati sensibili
-È **rigorosamente vietato** caricare:
-- microdati contenenti informazioni personali,
-- dati coperti da NDA o licenze proprietarie,
-- materiale non pubblicabile.
+## 🤝 How to Contribute
+To contribute to the repository:
+1. Read the `CONTRIBUTING.md` file carefully.
+2. Create a branch dedicated to your changes.
+3. Clearly document your contribution.
+4. Open a pull request for review.
 
-Utilizzare solo:
-- dataset pubblici,
-- versioni simulate,
-- dati completamente anonimizzati (vedi `datasets/guidelines-anonimizzazione.md`).
+All contributions must comply with the `CODE_OF_CONDUCT.md`.
 
 ---
 
-## 📜 Licenza
-- Il **codice** presente in questo repository è distribuito con licenza MIT.
-- I **materiali didattici**, i template e la documentazione testuale sono soggetti a licenza Creative Commons CC BY 4.0.
+## 🔒 Sensitive Data
+It is **strictly prohibited** to upload:
+* Microdata containing personal information.
+* Data covered by NDAs or proprietary licenses.
+* Non-publishable material.
 
+Only use:
+* Public datasets.
+* Simulated versions.
+* Fully anonymized data (see `datasets/guidelines-anonimizzazione.md`).
 
 ---
 
-## 📬 Contatti
-**InsIDE Lab – Insubria Information & Data for Economics**  
-Dipartimento di Economia – Università degli Studi dell’Insubria  
-Email di riferimento: *samuele.tonati@uninsubria.it*
+## 📜 License
+* The **code** in this repository is distributed under the MIT License.
+* **Educational materials**, templates, and textual documentation are subject to the Creative Commons CC BY 4.0 license.
 
 ---
+
+## 📬 Contacts
+**InSIDE Lab – Insubria Information & Data for Economics** Department of Economics – University of Insubria  
+Reference Email: *samuele.tonati@uninsubria.it*
